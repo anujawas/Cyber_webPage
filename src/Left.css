@@ -1,0 +1,12 @@
+.Body{
+    border: 2px solid black;
+    margin: 10px;
+}
+#star{
+    width: 20px;
+    height: 20px;
+}
+hr{
+    width: 200px;
+    margin-top: -20px;
+}
